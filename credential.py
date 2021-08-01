@@ -4,6 +4,7 @@ class Credential:
     """
     a class that generates new credential for users
     """
+    
     pass
     credential_array = []
     user_credentials_list = []
