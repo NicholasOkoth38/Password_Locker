@@ -4,6 +4,7 @@ from credential import Credential
 import random
 
 
+
 def create_user(fname, lname, phone, email):
     """
     Function to create a new user
