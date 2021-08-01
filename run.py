@@ -31,7 +31,6 @@ def save_cred(credential):
     """
     credential.save_credential()
 
-
 def del_user(user):
     """
     Function to delete a user
