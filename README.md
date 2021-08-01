@@ -40,6 +40,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 | Display prompt for which credential to copy | **Enter: copy** | Enter the site name of the credential you wish to copy. |
 | Exit application | **Enter: ex** | Exit the current navigation stage |
 
+
 ## Technologies Used
 <a href="https://www.w3schools.com/">Python</a> 
 
