@@ -25,7 +25,6 @@ def save_user(user):
     """
     user.save_user_details()
 
-
 def save_cred(credential):
     """
     Function to save user credentials
