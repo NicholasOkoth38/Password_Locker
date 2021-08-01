@@ -37,7 +37,6 @@ def del_user(user):
     """
     user.delete_user()
 
-
 def del_cred(credential):
     """
     Function to delete all users credentials
